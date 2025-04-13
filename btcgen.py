@@ -3,9 +3,9 @@
 """
 Created on Thu Mar 14 17:50:54 2024
 
-Bitcoin Puzzle Scanner for 2^66 ~ 2^67 range
+Bitcoin Puzzle Scanner for example 2^66 ~ 2^70 range
 Developer: Amin Solhi
-Contacts:  email: amin.solhi@gmail.com, +9891111842779
+Contacts:  email: amin.solhi@gmail.com, +989111842779
 """
 
 import threading

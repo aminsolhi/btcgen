@@ -6,7 +6,7 @@ BTCGEN is a Bitcoin puzzle scanner designed to generate and search for private k
 ### Developer Information
 - **Name:** Amin Solhi
 - **Email:** [amin.solhi@gmail.com](mailto:amin.solhi@gmail.com)
-- **Phone:** +9891111842779
+- **Phone:** +989111842779
 
 ## Prerequisites
 - Python 3.x
